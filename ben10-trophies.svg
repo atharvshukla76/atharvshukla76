@@ -1,0 +1,37 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .glow { filter: drop-shadow(0 0 8px #00ff41); }
+    .circle { fill: #001a00; stroke: #00ff41; stroke-width: 3; }
+    .title { font-family: 'Courier New', monospace; font-weight: bold; fill: #00ff41; font-size: 15px; text-anchor: middle; filter: drop-shadow(0 0 3px #00ff41); }
+    .icon { font-size: 40px; text-anchor: middle; dominant-baseline: middle; }
+    .pulse { animation: pulse-anim 2s infinite alternate; }
+    @keyframes pulse-anim {
+      from { filter: drop-shadow(0 0 5px #00ff41); }
+      to { filter: drop-shadow(0 0 20px #39ff14); }
+    }
+  </style>
+  
+  <g transform="translate(100, 65)" class="pulse">
+    <circle cx="0" cy="0" r="45" class="circle" />
+    <text x="0" y="5" class="icon">??</text>
+    <text x="0" y="70" class="title">Heatblast</text>
+  </g>
+  
+  <g transform="translate(300, 65)" class="pulse" style="animation-delay: 0.5s;">
+    <circle cx="0" cy="0" r="45" class="circle" />
+    <text x="0" y="5" class="icon">?</text>
+    <text x="0" y="70" class="title">XLR8</text>
+  </g>
+  
+  <g transform="translate(500, 65)" class="pulse" style="animation-delay: 1.0s;">
+    <circle cx="0" cy="0" r="45" class="circle" />
+    <text x="0" y="5" class="icon">??</text>
+    <text x="0" y="70" class="title">Diamondhead</text>
+  </g>
+  
+  <g transform="translate(700, 65)" class="pulse" style="animation-delay: 1.5s;">
+    <circle cx="0" cy="0" r="45" class="circle" />
+    <text x="0" y="5" class="icon">??</text>
+    <text x="0" y="70" class="title">Alien X</text>
+  </g>
+</svg>

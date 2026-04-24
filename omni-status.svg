@@ -1,0 +1,13 @@
+<svg width="600" height="30" viewBox="0 0 600 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'Courier New', monospace; font-weight: bold; font-size: 15px; fill: #00FF41; text-anchor: middle; dominant-baseline: middle; opacity: 0; filter: drop-shadow(0 0 4px #00FF41);}
+    .t1 { animation: cycle 6s infinite 0s; }
+    .t2 { animation: cycle 6s infinite 3s; }
+    @keyframes cycle {
+      0%, 40% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+  <text x="300" y="15" class="text t1">[ SCANNING... ] Alien Form Selected: DATA ANALYST ??</text>
+  <text x="300" y="15" class="text t2">[ TRANSFORMING... ] Hero Mode Activated! It's Hero Time!</text>
+</svg>

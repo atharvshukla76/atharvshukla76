@@ -1,0 +1,6 @@
+<svg width="700" height="25" viewBox="0 0 700 25" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'Courier New', monospace; font-weight: bold; font-size: 14px; fill: #00FF41; text-anchor: middle; dominant-baseline: middle; filter: drop-shadow(0 0 4px #00FF41);}
+  </style>
+  <text x="350" y="12" class="text">[ OMNITRIX SCANNING TECH STACK... ] All Aliens Unlocked!</text>
+</svg>

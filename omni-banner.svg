@@ -1,0 +1,19 @@
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 900;
+      font-size: 15px;
+      fill: #39ff14;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      filter: drop-shadow(0 0 5px #00FF41);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+  </style>
+  <text x="400" y="15" class="text">[ OMNITRIX ACTIVATED ] ? Initializing Hero Mode... All Systems Online ??</text>
+</svg>

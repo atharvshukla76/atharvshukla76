@@ -12,7 +12,7 @@
 
 <!-- TYPING ANIMATION — BEN 10 THEMED -->
 <a href="https://github.com/atharvshukla76">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=65&lines=It's+Hero+Time!+%F0%9F%9F%A2+I'm+Atharv+Shukla;Data+Analyst+%26+ML+Engineer+%F0%9F%9A%80;Power+BI+%7C+Python+%7C+Deep+Learning;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Intelligent+Systems+%F0%9F%A4%96;Omnitrix+Activated+—+Alien+Force+Online!+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="hero-text.svg" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,7 +41,7 @@
 <div align="center">
 
 <!-- BEN 10 ANIMATED BANNER — Omnitrix HUD style -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&pause=3000&color=00FF41&center=true&vCenter=true&width=800&height=30&lines=%5B+OMNITRIX+ACTIVATED+%5D+—+Initializing+Hero+Mode...+All+Systems+Online+%F0%9F%9F%A2" alt="Omnitrix Banner"/>
+<img src="omni-banner.svg" alt="Omnitrix Banner"/>
 
 </div>
 
@@ -82,7 +82,7 @@ print(me.transform("complex data problem"))
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&pause=4000&color=00FF41&center=true&vCenter=true&width=700&height=25&lines=%5B+OMNITRIX+SCANNING+TECH+STACK...+%5D+All+Aliens+Unlocked!" alt="Tech Scan"/>
+<img src="tech-scan.svg" alt="Tech Scan"/>
 
 ### 🌀 Heatblast — Languages (On Fire 🔥)
 <img src="https://skillicons.dev/icons?i=python,html,css,js,r&theme=dark&perline=10" />
@@ -139,7 +139,7 @@ print(me.transform("complex data problem"))
 ## 🏆 Hero Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvshukla76&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="ben10-trophies.svg" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -284,7 +284,7 @@ Real-time audio-based emotion detection with a cinematic web UI hosted on GitHub
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&pause=2000&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%5B+SCANNING...+%5D+Alien+Form+Selected:+DATA+ANALYST+%F0%9F%9F%A2;%5B+TRANSFORMING...+%5D+Hero+Mode+Activated!+It's+Hero+Time!" alt="Omnitrix Status"/>
+<img src="omni-status.svg" alt="Omnitrix Status"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Real-time audio-based emotion detection with a cinematic web UI hosted on GitHub
 <br/>
 
 <!-- Alien transformation quote cycling -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&pause=3000&color=00CC33&center=true&vCenter=true&width=700&height=25&lines=Heatblast:+I+set+data+on+fire+%F0%9F%94%A5;Diamondhead:+My+insights+are+unbreakable+%F0%9F%92%8E;Grey+Matter:+Small+input+—+Big+brain+output+%F0%9F%A7%A0;XLR8:+Deploying+models+at+lightning+speed+%E2%9A%A1;Wildvine:+Growing+one+commit+at+a+time+%F0%9F%8C%B1" alt="Alien Quotes"/>
+<img src="alien-quotes.svg" alt="Alien Quotes"/>
 
 </div>
 

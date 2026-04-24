@@ -1,0 +1,16 @@
+<svg width="700" height="25" viewBox="0 0 700 25" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: 'Courier New', monospace; font-weight: bold; font-size: 14px; fill: #39ff14; text-anchor: middle; dominant-baseline: middle; opacity: 0; filter: drop-shadow(0 0 3px #00FF41);}
+    .t1 { animation: cycle 15s infinite 0s; }
+    .t2 { animation: cycle 15s infinite 3s; }
+    .t3 { animation: cycle 15s infinite 6s; }
+    .t4 { animation: cycle 15s infinite 9s; }
+    .t5 { animation: cycle 15s infinite 12s; }
+    @keyframes cycle { 0%, 15% { opacity: 1; } 20%, 100% { opacity: 0; } }
+  </style>
+  <text x="350" y="12" class="text t1">Heatblast: I set data on fire ??</text>
+  <text x="350" y="12" class="text t2">Diamondhead: My insights are unbreakable ??</text>
+  <text x="350" y="12" class="text t3">Grey Matter: Small input ? Big brain output ??</text>
+  <text x="350" y="12" class="text t4">XLR8: Deploying models at lightning speed ?</text>
+  <text x="350" y="12" class="text t5">Wildvine: Growing one commit at a time ??</text>
+</svg>

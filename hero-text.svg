@@ -1,0 +1,30 @@
+<svg width="750" height="65" viewBox="0 0 750 65" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: 900;
+      font-size: 26px;
+      fill: #00FF41;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      opacity: 0;
+      filter: drop-shadow(0 0 8px #00FF41);
+    }
+    .t1 { animation: cycle 15s linear infinite 0s; }
+    .t2 { animation: cycle 15s linear infinite 3s; }
+    .t3 { animation: cycle 15s linear infinite 6s; }
+    .t4 { animation: cycle 15s linear infinite 9s; }
+    .t5 { animation: cycle 15s linear infinite 12s; }
+    @keyframes cycle {
+      0%, 15% { opacity: 0; transform: translateY(10px); }
+      18%, 32% { opacity: 1; transform: translateY(0); }
+      35%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="375" y="32" class="text t1">It's Hero Time! ?? I'm Atharv Shukla</text>
+  <text x="375" y="32" class="text t2">Data Analyst &amp; ML Engineer ??</text>
+  <text x="375" y="32" class="text t3">Power BI | Python | Deep Learning</text>
+  <text x="375" y="32" class="text t4">Turning Data into Decisions ??</text>
+  <text x="375" y="32" class="text t5">Omnitrix Activated ? Alien Force Online! ??</text>
+</svg>
