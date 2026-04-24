@@ -7,8 +7,8 @@
 <!-- CINEMATIC DARK HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a00,60:003300,100:00ff41&height=240&section=header&text=Atharv%20Shukla&fontSize=72&fontColor=00ff41&fontAlignY=38&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Power%20BI%20Developer&descAlignY=58&descSize=22&animation=fadeIn&stroke=00ff41&strokeWidth=2" width="100%"/>
 
-<!-- BEN 10 OMNITRIX SPINNING GIF -->
-<img src="https://i.imgur.com/lDlnzUJ.gif" width="120" height="120" alt="Omnitrix"/>
+<!-- BEN 10 OMNITRIX SPINNING SVG — GitHub-compatible animated SVG -->
+<img src="https://raw.githubusercontent.com/atharvshukla76/atharvshukla76/main/omnitrix.svg" width="130" height="130" alt="Omnitrix"/>
 
 <!-- TYPING ANIMATION — BEN 10 THEMED -->
 <a href="https://github.com/atharvshukla76">
