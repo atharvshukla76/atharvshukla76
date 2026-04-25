@@ -19,15 +19,15 @@
 
 <!-- BADGES -->
 <a href="https://github.com/atharvshukla76">
-  <img src="https://komarev.com/ghpvc/?username=atharvshukla76&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=001a00" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=atharvshukla76&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=001a00&v=1" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://github.com/atharvshukla76?tab=followers">
-  <img src="https://img.shields.io/github/followers/atharvshukla76?label=Followers&style=for-the-badge&color=00ff41&labelColor=001a00" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/atharvshukla76?label=Followers&style=for-the-badge&color=00ff41&labelColor=001a00&v=1" alt="Followers"/>
 </a>
 &nbsp;
 <a href="https://github.com/atharvshukla76">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-00ff41?style=for-the-badge&logo=databricks&logoColor=black&labelColor=001a00" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-00ff41?style=for-the-badge&logo=databricks&logoColor=black&labelColor=001a00&v=1" alt="Focus"/>
 </a>
 
 </div>
