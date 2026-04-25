@@ -18,7 +18,7 @@
 <br/>
 
 <!-- BADGES — Live counter + self-hosted Focus badge -->
-<a href="https://github.com/atharvshukla76">
+<a href="https://github.com/atharvshukla76/atharvshukla76/graphs/traffic">
   <img src="https://komarev.com/ghpvc/?username=atharvshukla76&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=001a00" alt="Profile Views"/>
 </a>
 &nbsp;
