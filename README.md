@@ -17,17 +17,17 @@
 
 <br/>
 
-<!-- BADGES — Self-hosted to avoid GitHub Camo proxy errors -->
+<!-- BADGES — Live counter + self-hosted Focus badge -->
 <a href="https://github.com/atharvshukla76">
-  <img src="https://raw.githubusercontent.com/atharvshukla76/atharvshukla76/main/profile-views.svg" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=atharvshukla76&label=Profile+Views&color=00ff41&style=for-the-badge&labelColor=001a00" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://github.com/atharvshukla76?tab=followers">
   <img src="https://img.shields.io/github/followers/atharvshukla76?label=Followers&style=for-the-badge&color=00ff41&labelColor=001a00" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/atharvshukla76">
-  <img src="https://raw.githubusercontent.com/atharvshukla76/atharvshukla76/main/focus-badge.svg" alt="Focus"/>
+<a href="https://github.com/atharvshukla76?tab=repositories">
+  <img src="https://raw.githubusercontent.com/atharvshukla76/atharvshukla76/main/focus-badge.svg" alt="Focus: Data Science and AI"/>
 </a>
 
 </div>
