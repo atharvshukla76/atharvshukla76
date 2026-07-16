@@ -94,20 +94,20 @@ print(me.transform("complex data problem"))
 ### 💧 Ripjaws — Data & BI (Deep Dive 📊)
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=001a00"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00ff41&labelColor=000001"/>
 &nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00ff41&labelColor=000001"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-0d6e0d?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d6e0d?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=000001"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Seaborn-00ff41?style=for-the-badge&logo=python&logoColor=black&labelColor=001a00"/>
+<img src="https://img.shields.io/badge/Seaborn-00ff41?style=for-the-badge&logo=python&logoColor=black&labelColor=001a00&v=2"/>
 
 ### 🧠 Grey Matter — ML & AI (Big Brain 🤖)
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10" />
 &nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black&labelColor=001a00"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=001a00"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=00ff41&labelColor=000001"/>
 
 ### ⚡ XLR8 — Frameworks & Speed Tools
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,jupyter&theme=dark&perline=10" />
@@ -124,13 +124,13 @@ print(me.transform("complex data problem"))
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvshukla76&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ccffcc&ring_color=00cc33"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atharvshukla76&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=000000&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ccffcc&ring_color=00cc33"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvshukla76&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atharvshukla76&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvshukla76&theme=dark&background=000000&border=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00cc33&dates=ccffcc&stroke=00ff41" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=atharvshukla76&theme=dark&background=000000&border=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00cc33&dates=ccffcc&stroke=00ff41" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -160,30 +160,29 @@ print(me.transform("complex data problem"))
 <tr>
 <td width="50%" align="center">
 
-### 📊 Madhav E-Commerce Dashboard
-<a href="https://github.com/atharvshukla76/Madhav-E-Commerce-Sales-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvshukla76&repo=Madhav-E-Commerce-Sales-Dashboard&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc&icon_color=00ff41" alt="Madhav Dashboard"/>
+### 💼 Job Market Intelligence
+<a href="https://github.com/atharvshukla76/Job-Market-Intelligence">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=atharvshukla76&repo=Job-Market-Intelligence&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc&icon_color=00ff41" alt="Job Market Intelligence Dashboard"/>
 </a>
 
-**Power BI · DAX · CSV Data**  
-Interactive e-commerce sales analysis with KPIs for 500+ orders across Indian states.
+**Jupyter Notebook · Data Analysis**  
+Data-driven insights and analytics on current job market trends and intelligence.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/atharvshukla76/Madhav-E-Commerce-Sales-Dashboard)
-[![Download Dashboard](https://img.shields.io/badge/Download%20Dashboard-001a00?style=for-the-badge&logo=powerbi&logoColor=00ff41)](https://github.com/atharvshukla76/Madhav-E-Commerce-Sales-Dashboard/raw/main/MADHAV%20ECOMMERCE%20SALES%20DASHBOARD.pbix)
+[![View Repo](https://img.shields.io/badge/View%20Repo-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/atharvshukla76/Job-Market-Intelligence)
 
 </td>
 <td width="50%" align="center">
 
 ### 🎭 Moodwave — Emotion Detection
-<a href="https://github.com/atharvshukla76">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvshukla76&repo=Moodwave&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc&icon_color=00ff41&show_owner=true" alt="Moodwave"/>
+<a href="https://github.com/atharvshukla76/Emotion-Detection-System-V2">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=atharvshukla76&repo=Emotion-Detection-System-V2&theme=chartreuse-dark&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=ccffcc&icon_color=00ff41" alt="Moodwave"/>
 </a>
 
 **TensorFlow · FastAPI · HTML/CSS**  
 Real-time audio-based emotion detection with a cinematic web UI hosted on GitHub Pages.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00ff41?style=for-the-badge&logo=githubpages&logoColor=black)](https://atharvshukla76.github.io)
-[![View Repo](https://img.shields.io/badge/View%20Repo-001a00?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/atharvshukla76)
+[![View Repo](https://img.shields.io/badge/View%20Repo-001a00?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/atharvshukla76/Emotion-Detection-System-V2)
 
 </td>
 </tr>
@@ -232,7 +231,7 @@ Real-time audio-based emotion detection with a cinematic web UI hosted on GitHub
 <!-- Omnitrix Glowing Badge -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OMNITRIX-FULLY%20CHARGED-00ff41?style=for-the-badge&labelColor=000000&color=00ff41"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Alien%20Form-DATA%20ANALYST-00cc33?style=for-the-badge&labelColor=001a00&logo=databricks&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/Alien%20Form-DATA%20/%20ML%20ENGINEER-00cc33?style=for-the-badge&labelColor=001a00&logo=databricks&logoColor=00ff41"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20Level-OVER%209000-39ff14?style=for-the-badge&labelColor=000000"/>
 
