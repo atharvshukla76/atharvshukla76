@@ -215,7 +215,7 @@ Real-time audio-based emotion detection with a cinematic web UI hosted on GitHub
 ## 📉 Omnitrix Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvshukla76&bg_color=000000&color=00ff41&line=00cc33&point=39ff14&area=true&area_color=001a00&hide_border=false&border_color=00ff41&radius=8&custom_title=Atharv%27s%20Omnitrix%20Activity" alt="Activity Graph" width="95%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=atharvshukla76&bg_color=000000&color=00ff41&line=00cc33&point=39ff14&area=true&area_color=001a00&hide_border=false&border_color=00ff41&radius=8&custom_title=Atharv%27s%20Omnitrix%20Activity" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
